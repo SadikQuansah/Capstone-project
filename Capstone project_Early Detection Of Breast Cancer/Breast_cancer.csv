@@ -1,0 +1,15 @@
+Family history,No.of Women,No.of Person-Years,No.of Events,Hazard Ratio(95% CI),P-value,"Cumulative Risk by Age, % (95% CI) 40 years old groups","Cumulative Risk by Age, % (95% CI) 50 years old groups","Cumulative Risk by Age, % (95% CI) 60 years old groups","Cumulative Risk by Age, % (95% CI) 70 years old groups",Breast Cancer Occurences
+No breast cancers (BRCA1 mutation),600.0,3283.0,54.0,1.0,NaN,16.0,35.0,43.0,53.0,0
+1 breast cancer(BRCA1 mutation,719.0,4176.0,91.0,1.51,0.02,27.0,47.0,56.0,68.0,1
+≥2 breast cancers(BRCA1 mutation),737.0,3864.0,108.0,1.99,0.0001,31.0,50.0,67.0,73.0,2
+Family history unknown(BRCA1 mutation),205.0,906.0,13.0,1.06,0.86,,,,,0
+Cancer type unknown in family(BRCA1 mutation),15.0,128.0,3.0,2.57,0.02,,,,,0
+≥1 breast cancers(BRCA1 mutation),1456.0,8040.0,199.0,1.67,0.001,28.0,48.0,62.0,71.0,1
+Per affected relative with breast cancer(BRCA1 mutation) ,,,,1.15,0.0001,,,,,0
+No breast cancers(BRCA2 mutation),302.0,1499.0,17.0,1.0,,5.0,26.0,39.0,39.0,0
+1 breast cancer(BRCA2 mutation),495.0,2675.0,49.0,1.53,0.15,14.0,30.0,55.0,62.0,1
+≥2 breast cancers(BRCA2 mutation),634.0,3112.0,78.0,1.91,0.02,14.0,40.0,57.0,65.0,2
+Family history unknown(BRCA2 mutation),166.0,575.0,13.0,1.82,0.15,,,,,0
+Cancer type unknown in family(BRCA2 mutation),13.0,53.0,0.0,,,,,,,0
+≥1 breast cancers(BRCA2 mutation,1129.0,5787.0,127.0,1.69,0.05,14.0,36.0,56.0,64.0,1
+Per affected relative with breast cancer(BRCA2 mutation),,,,1.15,0.02,,,,,0
